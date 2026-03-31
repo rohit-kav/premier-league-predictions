@@ -1,4 +1,4 @@
-⚽ Premier League Match Outcome Predictor
+⚽ Premier League Match Predictor
 
 A machine learning project that predicts match outcomes in the English Premier League using historical match data and statistical features.
 
